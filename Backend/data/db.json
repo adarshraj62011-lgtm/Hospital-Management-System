@@ -1,0 +1,170 @@
+{
+  "users": [
+    {
+      "_id": "mn2z7hqvl38nqatd",
+      "firstName": "Adarsh ",
+      "lastName": "Admin",
+      "email": "adarshraj62011@gmail.com",
+      "phone": "6201148908",
+      "nic": "0000000000000",
+      "dob": "2005-10-16",
+      "gender": "Male",
+      "role": "Admin",
+      "password": "e8c00308a6d6a4691d47eb9db248ea20:d724f0188188de67742b2398647236bb91b2133c9c54eacd01768e0f07a0e25bd50fdf118eade7eaec3138638a6fe1a074e49d8ce5e14e69eaf6d52b0c6209db",
+      "createdAt": "2026-03-23T09:21:12.374Z",
+      "updatedAt": "2026-03-23T09:39:00.000Z"
+    },
+    {
+      "_id": "mn2z8edijbmsdkpl",
+      "createdAt": "2026-03-23T09:21:54.630Z",
+      "updatedAt": "2026-03-23T09:21:54.630Z",
+      "firstName": "Asha",
+      "lastName": "Rao",
+      "email": "doctor1@example.com",
+      "phone": "9876543210",
+      "nic": "1234567890123",
+      "dob": "1985-01-01",
+      "gender": "Female",
+      "password": "3958755879c8a42c1533399057b56fe2:909e15eb186beaae9a588f7798bc60c6ad17a288ec65575bb937f777d6ef279ac5e7c5a0fccd821d9538080e9baeb803207ae71e5e0976362e5c808eade3caa6",
+      "role": "Doctor",
+      "doctorDepartment": "Cardiology",
+      "docAvatar": null
+    },
+    {
+      "_id": "mn2z8eeh4rs771zb",
+      "createdAt": "2026-03-23T09:21:54.665Z",
+      "updatedAt": "2026-03-23T09:21:54.665Z",
+      "firstName": "Rahul",
+      "lastName": "Shah",
+      "email": "patient1@example.com",
+      "phone": "9998887776",
+      "nic": "9999999999999",
+      "dob": "1999-01-01",
+      "gender": "Male",
+      "password": "be454eb393c48515da4d83bdca52ed50:e75c4ccbf27c532868c139d4336a629d32622fb7dd7d891b2f94d653ac2cbaef58c5c4f5f6d63fab7db05172155ac90afafefc6dabf0c50a239b98aa4ea16618",
+      "role": "Patient",
+      "doctorDepartment": null
+    },
+    {
+      "_id": "mn3olhwb6rfaq4tm",
+      "createdAt": "2026-03-23T21:11:56.123Z",
+      "updatedAt": "2026-03-23T21:11:56.123Z",
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@example.com",
+      "phone": "1234567890",
+      "nic": "1234567890123",
+      "dob": "2000-01-01",
+      "gender": "Male",
+      "password": "9555d5f9ef0261a5ffbad88dd3542dc6:d81a9ed65137ab8656f9761cfbb1d4e0234ee30551d29e76dc7c51df9fee9bf3f06a306a6b5733b364956e805ac8389749320500d75f7c7983b388a2a57d8a3c",
+      "role": "Patient",
+      "doctorDepartment": null
+    },
+    {
+      "_id": "mn3p747pr4oz6gti",
+      "createdAt": "2026-03-23T21:28:44.821Z",
+      "updatedAt": "2026-03-23T21:28:44.821Z",
+      "firstName": "vikas",
+      "lastName": "shellagi",
+      "email": "vishal123@gmasil.com",
+      "phone": "07676802798",
+      "aadhaarNumber": "12345678912",
+      "dob": "2005-10-16",
+      "gender": "Male",
+      "password": "497a97dc4ec0b25dfbc098d8506104ca:cf30e15323a15304f85abc43eb14bb088b5a1b3c63e94580ddc798c1ed321f9af908a280c41bbb01d5760cd06878ed69c18a0f9c035f698bc70f8b2bfca6cf2e",
+      "role": "Patient",
+      "doctorDepartment": null
+    },
+    {
+      "_id": "mn4sqn89vyy7glct",
+      "createdAt": "2026-03-24T15:55:40.953Z",
+      "updatedAt": "2026-03-24T15:55:40.953Z",
+      "firstName": "Satyanshu",
+      "lastName": "Singh",
+      "email": "satyanshu123@gmail.com",
+      "phone": "06204677290",
+      "aadhaarNumber": "7891234566",
+      "dob": "2004-10-29",
+      "gender": "Male",
+      "password": "cd56d75b102d02ac2c6964ca2e1aaf74:1f0ead79bd846759d3e2bb79add1c213019878ea326d6f1eef46999386cb4cf7553d93a5708315833c0e65dc2dab65487cbce37dcbf6e65a3ef67a0defa12c94",
+      "role": "Patient",
+      "doctorDepartment": null
+    },
+    {
+      "_id": "mn4t59611y12m36k",
+      "createdAt": "2026-03-24T16:07:02.569Z",
+      "updatedAt": "2026-03-24T16:07:02.570Z",
+      "firstName": "Satyanshu",
+      "lastName": "Singh",
+      "email": "satyanshu567@gmail.com",
+      "phone": "06204677290",
+      "aadhaarNumber": "7891234566",
+      "dob": "2004-10-29",
+      "gender": "Male",
+      "password": "784109db5fbd0ad0af27ee857dfd3776:f4d9e78930efd6827d302959d993d471e98c6ee01e3bf842d76fd99e14e627757ae4e45ea34ee032ce32de5bf9929c220dd708a458d5134745d3e24744f34e08",
+      "role": "Patient",
+      "doctorDepartment": null
+    },
+    {
+      "_id": "mn4t7rp08upwto2m",
+      "createdAt": "2026-03-24T16:08:59.892Z",
+      "updatedAt": "2026-03-24T16:08:59.892Z",
+      "firstName": "Satyanshu",
+      "lastName": "Singh",
+      "email": "satyanshu432@gmail.com",
+      "phone": "06204677290",
+      "aadhaarNumber": "7891234566",
+      "dob": "2004-10-29",
+      "gender": "Male",
+      "password": "23dc3cbbedd9aba9880deffec70c3ec5:9239502055eac779e121cef597412eb9068012c84ddec42ac02ceede50f1916e5145f784016f1555618950c8af57fc92a9700fa85bfdd236fe0bfc98d26a29c0",
+      "role": "Patient",
+      "doctorDepartment": null
+    }
+  ],
+  "appointments": [
+    {
+      "_id": "mn2z8eesuu1xkf4x",
+      "status": "Accepted",
+      "createdAt": "2026-03-23T09:21:54.676Z",
+      "updatedAt": "2026-03-23T21:29:27.415Z",
+      "patientId": "mn2z8eeh4rs771zb",
+      "firstName": "Rahul",
+      "lastName": "Shah",
+      "email": "patient1@example.com",
+      "phone": "9998887776",
+      "nic": "9999999999999",
+      "dob": "1999-01-01",
+      "gender": "Male",
+      "appointment_date": "2026-03-30",
+      "department": "Cardiology",
+      "hasVisited": false,
+      "address": "Kolkata",
+      "doctor": {
+        "_id": "mn2z8edijbmsdkpl",
+        "firstName": "Asha",
+        "lastName": "Rao",
+        "doctorDepartment": "Cardiology"
+      }
+    }
+  ],
+  "messages": [
+    {
+      "_id": "mn3olhwm7pg2q8i5",
+      "createdAt": "2026-03-23T21:11:56.134Z",
+      "firstName": "Smoke",
+      "lastName": "Test",
+      "email": "smoke@example.com",
+      "phone": "1234567890",
+      "message": "hello"
+    },
+    {
+      "_id": "mn2z8eek4ylcri0x",
+      "createdAt": "2026-03-23T09:21:54.668Z",
+      "firstName": "Rahul",
+      "lastName": "Shah",
+      "email": "patient1@example.com",
+      "phone": "9998887776",
+      "message": "Need help with consultation"
+    }
+  ]
+}

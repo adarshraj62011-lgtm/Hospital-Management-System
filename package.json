@@ -1,0 +1,7 @@
+{
+  "name": "hospital-management-system-workspace",
+  "private": true,
+  "scripts": {
+    "start": "powershell -ExecutionPolicy Bypass -File .\\run-project.ps1"
+  }
+}
